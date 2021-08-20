@@ -447,6 +447,7 @@ The following list shows the keywords in TiDB. Reserved keywords are marked with
 - PER_DB
 - PER_TABLE
 - PESSIMISTIC (R)
+- PLACEMENT (R)
 - PLUGINS
 - PRECEDING
 - PRECISION (R)
